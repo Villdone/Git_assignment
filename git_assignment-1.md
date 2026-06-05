@@ -1,4 +1,4 @@
-<img width="1230" height="584" alt="Screenshot 2026-06-05 165534" src="https://github.com/user-attachments/assets/dd3ab084-3675-4152-abc5-d9fe51854c90" /># Git & GitHub Assignment
+# Git & GitHub Assignment
 
 For each **📸**, you must paste the terminal output or add a screenshot to this repository.
 
